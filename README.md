@@ -1,2 +1,2 @@
-# Sudomemo-replica
-A Flipnote Hatena service of the replica "Sudomemo" and will be a functional server
+# Sudomemo
+A Flipnote Hatena service named "Sudomemo" in a replica of its DSi assets (Its a replica! not the original)
